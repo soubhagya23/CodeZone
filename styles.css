@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap");
+.main {
+  background: url(./assets/bg\ image\ 1.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.container {
+  clear: both;
+  overflow: auto;
+}
+
+nav {
+  float: right;
+}
+
+.logo img {
+  float: left;
+}
+
+ul li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+  font-family: raleway;
+  color: white;
+  font-size: 16px;
+}
+
+ul li:hover {
+  color: orange;
+}
+
+.navbar {
+  padding: 80px;
+}
+
+.mainHead {
+  position: absolute;
+  height: 73.12px;
+  left: 9.24%;
+  right: 10.45%;
+  top: calc(50% - 73.12px / 2 - 130.06px);
+
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.mainPara {
+  position: absolute;
+  left: 31.11%;
+  right: 32.36%;
+  top: 41.01%;
+  bottom: 48.68%;
+
+  font-family: "Bebas Neue";
+  font-style: normal;
+
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 2px;
+  margin-top: 53px;
+  color: #ffffff;
+}
+
+.scrollText {
+  position: absolute;
+  left: 47.66%;
+  right: 47.61%;
+  top: 91.03%;
+  bottom: 6.4%;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 22px;
+  /* or 183% */
+
+  text-align: justify;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+/*  .ScrollDown{
+    position: absolute;
+width: 20.25px;
+height: 8.17px;
+left: 708.32px;
+top: 898.53px;
+
+border: 2px solid #FFFFFF;
+  } */
+.SecondMain {
+  background: url(./assets/bg\ image\ 2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.secondPara {
+  left: 8.39%;
+  right: 73.42%;
+  top: 26.65%;
+  bottom: 70.47%;
+
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.secondMainT {
+  left: 8.4%;
+  right: 53.68%;
+  top: 49.92%;
+  bottom: 20.22%;
+  text-align: left;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  /* or 122% */
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.secondImg {
+  width: 411px;
+  height: 512px;
+  left: 700px;
+  top: 201.7px;
+}
+
+.dj {
+  font-size: 40px;
+  text-align: left;
+  line-height: 39px;
+}
+
+.SecondMain {
+  padding: 70px;
+}
+
+
+.ThirdMain {
+  background-color: black;
+  background-size: cover;
+  height: AUTO;
+}
+
+.paddingMore{
+    padding: 100px;
+}
+
+.thirdt{
+    color: red;
+    font-size:20px;
+}
+
+.paraT{
+    color: white;
+    text-align:left;
+}
+
+.thirdRow{
+    padding: 100px;
+}
+
+.myCute{
+    
+background: #D23535;
+border-radius: 4px;
+float: left;
+height: 45px;
+font-weight: 600;
+}
+
+.navbar{
+    padding:80px;
+}
+
+.FourthMain{
+    background: url(./assets/Group\ 2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.FourthPara{
+    text-align: center;
+    color: white;
+    font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 50px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+}
+
+.dji{
+    font-size:20px
+}
